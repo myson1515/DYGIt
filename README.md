@@ -1,26 +1,54 @@
+# DYGIt
+(Short For: Did You Get It)
 This is my first program that I have ever distributed...
 
 Constructive criticism is welcome.
 
 The source code for this project is available here:
-<https://github.com/myson1515/DYGI>
+<https://github.com/myson1515/DYGIt>
 
-This is an email client for Unix users that do not have a GUI for their OS.  An example of this may be Arch Linux or any distro of that sort.  This program only works for gmail users and is 100% text-based.  The program is very self explanitory it comes with the following features:
+## Description
 
-1. An inbox to view emails
-2. A way to write and send emails 
-3. A logout button.
+* This is a little python script I wrote in Python 2.7 which is a working *Gmail* client
+* This program is cross compatible on Linux, macOS and Windows Systems
 
-You can navigate through these features using CTRL-X and the OK and CANCEL buttons in the bottom right.
+## Features
 
-These are the features this program doesn't have but will possibly come soon depending on your input:
+* Ability to login to your gmail account (So long as third party apps is enabled via <https://security.google.com>)
+* Ability to write emails
+* Ability to read *Text-Based* emails (Not in html, however this feature may be added at some point in the future)
+* Ability to change the theme of the text based client
+* Ability to look back on different dates to view emails
+* Ability to change Gmail folders
+* Ability to Reply to emails
 
-1. A respond button.
-2. An index to look through email folders.
+## How To Install
 
-This software has been tested on Windows and Linux and should work on a Mac.
+__Quick Note__:  You must have python2 installed to run this program if you have python3 and python2 replace 'pip install' with 'pip2 install'
 
-IMPORTANT NOTE:  Please make sure access to less secure apps is switched to "on" if you want to use this email client.
+#### macOS 
 
-Thanks for using the software.  My name is Mason Lapine.
-You can contact me on GitHub for any bugs or suggestions or email me.
+'sudo pip install DYGIt'
+
+#### Windows
+
+'pip install DYGIt'
+
+#### Linux
+
+'pip install DYGIt'
+
+## Usage
+
+#### macOS
+
+'sudo DYGIt.py'
+
+#### Linux and Windows
+
+'DYGIt.py'
+
+
+## Contact and Suggestions
+
+Feel free to contact me on Github for suggestions.  If there is a bug in the program, please tell me!
