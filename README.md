@@ -24,7 +24,7 @@ The source code for this project is available here:
 
 ## How To Install
 
-__Quick Note__:  You must have python2 installed to run this program if you have python3 and python2 replace 'pip install' with 'pip2 install'
+__Quick Note__:  You must have python2 installed to run this program if you have python3 and python2 replace ```pip install``` with ```pip2 install```
 
 #### macOS 
 
