@@ -28,7 +28,9 @@ __Quick Note__:  You must have python2 installed to run this program if you have
 
 #### macOS 
 
-'''sudo pip install DYGIt'''
+'''
+sudo pip install DYGIt
+'''
 
 #### Windows
 
