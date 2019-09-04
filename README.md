@@ -1,5 +1,6 @@
 # DYGIt
 (Short For: Did You Get It)
+
 This is my first program that I have ever distributed...
 
 Constructive criticism is welcome.
