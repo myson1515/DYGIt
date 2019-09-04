@@ -28,27 +28,25 @@ __Quick Note__:  You must have python2 installed to run this program if you have
 
 #### macOS 
 
-'''
-sudo pip install DYGIt
-'''
+```sudo pip install DYGIt```
 
 #### Windows
 
-'''pip install DYGIt'''
+```pip install DYGIt```
 
 #### Linux
 
-'''pip install DYGIt'''
+```pip install DYGIt```
 
 ## Usage
 
 #### macOS
 
-'''sudo DYGIt.py'''
+```sudo DYGIt.py```
 
 #### Linux and Windows
 
-'''DYGIt.py'''
+```DYGIt.py```
 
 
 ## Contact and Suggestions
