@@ -621,12 +621,12 @@ class Inbox(npyscreen.ActionForm, npyscreen.FormWithMenus):
 			try:
 				os.system('cls')
 			except AttributeError:
-				print("Program closed.")
+				print "Program closed."
 		else:
 			toLog("Logout")
 			toLog("----------END SESSION---------\n")			
 			os.system('clear')
-			print("Program closed.")
+			print "Program closed."
 
 	def changeColorP(self):
 		toLog("Switching to theme picker form.")
@@ -721,10 +721,10 @@ class SendMail(npyscreen.ActionForm, npyscreen.FormWithMenus):
 			try:
 				os.system('cls')
 			except AttributeError:
-				print("Program closed.")
+				print "Program closed."
 		else:			
 			os.system('clear')
-			print("Program closed.")
+			print "Program closed."
 	def sendy(self):
 		toLog("Switching to send mail form")
 		self.parentApp.switchForm("sendMail")
@@ -785,4 +785,4 @@ except SystemExit:
 	sys.exit()	
 except AttributeError as e:
 	toLog(str(e))
-	print("Program Terminated")
+	print "Program Terminated"

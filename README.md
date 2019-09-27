@@ -10,7 +10,7 @@ The source code for this project is available here:
 
 ## Description
 
-* This is a little python script I wrote in Python 2.7 which is a working *Gmail* client
+* This is a little python script I wrote in Python 2.7 and have now ported to *3.7* and is a working *Gmail* client
 * This program is cross compatible on Linux, macOS and Windows Systems
 
 ## Features
